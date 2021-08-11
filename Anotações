@@ -1,0 +1,2 @@
+Antes de execultar o código instale no terminal do pycharm pip3 install PyQt5 e o matplotlib.
+Ou no terminal do linix sudo apt-get install python3.8(<- versão atual do seu python.)-tk.
